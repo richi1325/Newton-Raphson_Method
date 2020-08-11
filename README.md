@@ -4,8 +4,8 @@ This is an algorithm written in python, the main program is in NewtonRaphsonMeth
 ### libraries
 Code need pandas, sympy and numpy libraries for its funtionability, if you don't have installed try with:
 
-`pip install pandas`
-`pip install sympy`
-`pip install numpy`
+`pip install pandas`  
+`pip install sympy`  
+`pip install numpy`  
 
 *richi1325*
